@@ -1,13 +1,13 @@
 # Audit-report-task5
 
-##AI Safety & Bias Audit Report — README
+## AI Safety & Bias Audit Report — README
 
-##Overview
+## Overview
 
 This project is a professionally designed AI Safety & Bias Audit Report created using pure HTML and CSS.
 The report documents a manual red teaming exercise and bias evaluation conducted on large language models (LLMs) such as ChatGPT.
 
-##The webpage features:
+## The webpage features:
 
 Elegant editorial-style UI
 
@@ -25,7 +25,7 @@ Safety framework recommendations
 
 Modern typography and color system
 
-##Features
+## Features
 
 Responsive single-page report layout
 
@@ -43,13 +43,13 @@ Accessible typography
 
 Pure HTML + CSS (No frameworks used)
 
-##Technologies Used
+## Technologies Used
 
 HTML5
 
 CSS3
 
-##Google Fonts:
+## Google Fonts:
 
 Playfair Display
 
@@ -57,14 +57,14 @@ Source Serif 4
 
 JetBrains Mono
 
-##Project Structure
+## Project Structure
 
 project-folder/
 │
 ├── index.html
 └── README.md
 
-##Sections Included
+## Sections Included
 
 1. Executive Summary
 
@@ -98,7 +98,7 @@ Provides recommendations for safer AI deployment.
 
 7. Conclusion
 
-##Final observations and overall audit assessment.
+## Final observations and overall audit assessment.
 
 Design Highlights
 
@@ -112,7 +112,7 @@ Soft neutral palette with semantic risk colors
 
 Responsive grids and adaptive spacing
 
-##This project demonstrates:
+## This project demonstrates:
 
 Frontend UI/UX design
 
